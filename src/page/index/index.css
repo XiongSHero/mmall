@@ -1,3 +1,3 @@
 body{
-    background: #ccc url('../../image/webpack-jQuery.png');
+    background: #ccc url('../../image/webpack-jQuery.png') no-repeat;
 }
